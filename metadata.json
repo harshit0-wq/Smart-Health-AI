@@ -1,0 +1,6 @@
+{
+  "name": "SmartHealth AI Platform",
+  "description": "Unified clinical intelligence platform with smart patient dashboards, live queues, prescription generation, and AI copilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
